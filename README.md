@@ -17,6 +17,7 @@ recruta novas cartas, desbloqueia conquistas e disputa o ranking.
 | **Professores** | Luis Felipe Cardoso e Lucas Machado |
 | **Dupla** | Caio Machado e Lucas Henrique |
 | **Entrega** | 09/11/2026 |
+| **Repositório** | https://github.com/CaioFigueiraMachado/trap-rpg |
 
 <p align="center">
   <img src="lib/assets/cards/matue.webp" width="150">
