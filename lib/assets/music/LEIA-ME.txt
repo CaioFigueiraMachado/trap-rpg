@@ -1,0 +1,23 @@
+MÚSICAS DOS TRAPPERS
+====================
+
+Coloque aqui os arquivos de áudio que você tem (mp3, m4a, ogg ou wav),
+usando o id da carta como nome do arquivo:
+
+  alee.mp3
+  matue.mp3
+  teto.mp3
+  klisman.mp3
+  leviano.mp3
+  phlnoturnboy.mp3
+  fabgodamn.mp3
+  reid.mp3
+  stef.mp3
+  fabin.mp3
+
+O app detecta sozinho quais arquivos existem:
+- Na Coleção, a carta mostra o botão "Tocar" para ouvir a música do trapper.
+- Na Batalha, toca a música de uma das cartas do seu time (botão de som no topo).
+
+Cartas sem arquivo continuam com o botão "Ouvir no Spotify".
+Depois de adicionar arquivos, rode "flutter pub get" e reinicie o app (não basta hot reload).
